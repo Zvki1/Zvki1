@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Zvki1
-- 👀 I’m interested in 
+- 👀 I’m interested in computer science
 - 🌱 I’m currently learning web developement
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Zvki1/Zvki1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
